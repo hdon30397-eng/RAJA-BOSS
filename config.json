@@ -1,7 +1,7 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🌟 RAJA G BOT 🌟",
+  "BOTNAME": "🌟 RAJA BOT 🌟",
   "PREFIX": ".",
   "ADMINBOT": {61589639552429},
   "PREFIX_ENABLED": true,
@@ -19,10 +19,10 @@
   "IGNORED_USERS": [],
   "DISABLED_COMMANDS": [],
   "AI_NAME": "Mano",
-  "AI_OWNER": "Raja Boss",
+  "AI_OWNER": "Raja G",
   "AI_OWNER_UID": "61589639552429",
   "AI_MODEL": "google/gemini-2.5-flash-lite",
   "AI_ENABLED": true,
-  "AI_API_KEY": "csk-jheyepytcfn4x6yxyk3k3x6ve2e538m8c4eem3pt98wnfwn6",
+  "AI_API_KEY": "csk-y2t5nc632vd5p395tkpwjn64wect6epjcdyrmhrfek38tnh2",
   "CEREBRAS_API_URL": "https://api.cerebras.ai/v1/chat/completions"
 }
