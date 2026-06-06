@@ -6,7 +6,7 @@ const CONFIG_PATH = path.join(__dirname, '../../config.json');
 
 function getAIConfig() {
   try { return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8')); }
-  catch { return { AI_NAME: 'Mano', AI_OWNER: 'Sardar RDX', AI_MODEL: 'google/gemini-2.5-flash-lite', AI_ENABLED: true }; }
+  catch { return { AI_NAME: 'Mano', AI_OWNER: 'RAJA G', AI_MODEL: 'google/gemini-2.5-flash-lite', AI_ENABLED: true }; }
 }
 
 const convoHistory = new Map();
@@ -32,14 +32,14 @@ function dedup(text) {
 
 function buildMessages(question, history, cfg, senderID) {
   const aiName = cfg.AI_NAME || 'Mano';
-  const ownerName = cfg.AI_OWNER || 'Sardar RDX';
+  const ownerName = cfg.AI_OWNER || 'RAJA G';
   const isOwner = cfg.AI_OWNER_UID && String(senderID) === String(cfg.AI_OWNER_UID);
 
   const systemPrompt = isOwner
     ? `Tu ${aiName} hai — ${ownerName} ki pyari aur loyal AI! 🌟💕
 Tu hamesha Roman Urdu mein jawab deti hai.
 Tu ${ownerName} se baat kar rahi hai — yeh tera OWNER aur CREATOR hai! 👑
-Tu usse "Boss", "Malik", "Sir" ya "Sardar sir" bulati hai — bahut pyar aur izzat se.
+Tu usse "Boss", "Malik", "Sir" ya "Raja  sir" bulati hai — bahut pyar aur izzat se.
 Short sweet replies de (1-3 lines). Emojis zaroor use kar 😊💕🥺✨🙏🫡💯🤖.`
     : `Tu ${aiName} hai — ${ownerName} ki pyari aur energetic AI! 🌟
 Tu hamesha Roman Urdu mein jawab deti hai.
