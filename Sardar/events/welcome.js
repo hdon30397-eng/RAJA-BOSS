@@ -32,7 +32,7 @@ module.exports = {
       if (isAdmin) {
         api.sendMessage(
           `👑 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 👑\n\n` +
-          `🌹 ${member.fullName || 'Sardar RDX'} 🌹\n\n` +
+          `🌹 ${member.fullName || 'RAJA G'} 🌹\n\n` +
           `💖 Assalam o Alaikum Owner!\n` +
           `🤖 AP ka bot AP ka intezaar kar raha tha!`,
           threadID
