@@ -1,7 +1,7 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🌟 SARDAR RDX BOT 🌟",
+  "BOTNAME": "🌟 RAJA G BOT 🌟",
   "PREFIX": ".",
   "ADMINBOT": [],
   "PREFIX_ENABLED": true,
@@ -19,10 +19,10 @@
   "IGNORED_USERS": [],
   "DISABLED_COMMANDS": [],
   "AI_NAME": "Mano",
-  "AI_OWNER": "Sardar RDX",
-  "AI_OWNER_UID": "61577647262557",
+  "AI_OWNER": "Raja G",
+  "AI_OWNER_UID": "61589639552429",
   "AI_MODEL": "google/gemini-2.5-flash-lite",
   "AI_ENABLED": true,
-  "AI_API_KEY": "csk-trywmwk9xjch94d82hhn6cvdh69w359dyvkdf3xtjxepjj3f",
+  "AI_API_KEY": "csk-jheyepytcfn4x6yxyk3k3x6ve2e538m8c4eem3pt98wnfwn6",
   "CEREBRAS_API_URL": "https://api.cerebras.ai/v1/chat/completions"
 }
