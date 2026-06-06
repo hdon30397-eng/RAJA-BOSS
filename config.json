@@ -3,7 +3,7 @@
   "LOGIN_METHOD": "appstate",
   "BOTNAME": "🌟 RAJA G BOT 🌟",
   "PREFIX": ".",
-  "ADMINBOT": {},
+  "ADMINBOT": {61589639552429},
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
   "ADMIN_ONLY_MODE": false,
