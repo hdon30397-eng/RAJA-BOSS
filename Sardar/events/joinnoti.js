@@ -31,30 +31,30 @@ module.exports = {
       } catch (e) {}
 
       const msg1 = "Hello Everyone🙋‍♂️ 𝐁𝐨𝐭 𝐢𝐬 𝐍𝐨𝐰 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝⛓️";
-      const msg2 = `┏━━━━ ⚡ 𝐑𝐃𝐗 𝐁𝐎𝐓 ⚡ ━━━━┓
+      const msg2 = `┏━━━━ ⚡ 𝗥𝗔𝗝𝗔 𝗚 𝐁𝐎𝐓 ⚡ ━━━━┓
 ┃
-┃   🌹 ꧁ 𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 ꧂ 🌹
+┃   🌹 ꧁ 𝗥𝗔𝗝𝗔 𝗚 ꧂ 🌹
 ┃
 ┃   ✨ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✨
 ┃
-┃ 🕊️ 𝑴𝒚 𝑶𝒘𝒏𝒆𝒓 𝒊𝒔 𝑴𝒓 𝑺𝒂𝒓𝒅𝒂𝒓 𝑹𝑫𝑿...
+┃ 🕊️ 𝑴𝒚 𝑶𝒘𝒏𝒆𝒓 𝒊𝒔 Raja G...
 ┃ 📱 𝑰𝒔𝒔𝒖𝒆𝒔? 𝑻𝒚𝒑𝒆: ${config.PREFIX}call
 ┃
 ┃ 👑 【 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 】 👑
-┃ 👤 𝐍𝐚𝐦𝐞: Sardar RDX
-┃ 🌐 𝐈𝐃: fb.com/Sardar.RDX.786
-┃ 📞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: +923301068874
-┃ ✈️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @SardarRDX7
+┃ 👤 𝐍𝐚𝐦𝐞: Raja G
+┃ 🌐 𝐈𝐃: fb.com/Raja.RDX.786
+┃ 📞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: +923709690437
+┃ ✈️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @RAJARDX7
 ┃
 ┃ ⚠️ 【 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 】 ⚠️
 ┃ 📍 Bot ID active for 5 days.
 ┃ 📍 Add developer to keep bot.
 ┃ 📍 Contact for custom bots.
 ┃
-┃ 💖 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑼𝒔𝒊𝒏𝒈 𝑹𝑫𝑿 𝑩𝒐𝒕
+┃ 💖 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑼𝒔𝒊𝒏𝒈 RAJA G BOT
 ┃
 ┗━━━━━━━━━━━━━━━━━━━┛
-      🎀🧸🌸 𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 🌸🧸🎀`;
+      🎀🧸🌸 𝗥𝗔𝗝𝗔 𝗚 🌸🧸🎀`;
 
       const videoPath = path.join(__dirname, "cache", "botjoin.mp4");
 
