@@ -86,14 +86,14 @@ function buildMainMenu(userName, config, total, catNames, time) {
   const uptime   = getUptime();
 
   let msg = '';
-  msg += topBar('SARDAR RDX BOT') + '\n';
+  msg += topBar('RAJA G BOT') + '\n';
   msg += `│\n`;
   msg += `│ ✅ ▰▰▰▰▰▰▰▰▰▰ 𝟭𝟬𝟬%\n`;
   msg += `│\n`;
   msg += `│ ⊳ ${bold('Hi •─┼ its me')} ${userName}, ${bold(greeting)}!\n`;
   msg += `│\n`;
   msg += `│ ◈ ${bold('Version')} : ${config.VERSION || '2.0.0'}\n`;
-  msg += `│ ◈ ${bold('Owner')}   : ${bold('SARDAR RDX')}\n`;
+  msg += `│ ◈ ${bold('Owner')}   : ${bold('RAJA G')}\n`;
   msg += `│ ◈ ${bold('Ram')}     : ${ram}\n`;
   msg += `│ ◈ ${bold('Uptime')}  : ${uptime}\n`;
   msg += `│ ◈ ${bold('Prefix')}  : ${config.PREFIX || '.'}\n`;
@@ -166,7 +166,7 @@ function buildAllMsg(cats, prefix, config, total, time) {
   }
 
   msg += `│ 💡 ${prefix}${bold('help [cmd]')} for details\n`;
-  msg += `│ 👑 ${bold('SARDAR RDX BOT')}`;
+  msg += `│ 👑 ${bold('RAJA G BOT')}`;
   return msg;
 }
 
@@ -189,7 +189,7 @@ function buildCmdInfo(cmd, prefix, config) {
   msg += `│   ${c.description || 'No description'}\n`;
   msg += `│\n`;
   msg += botLine(19) + '\n\n';
-  msg += `│ 👑 ${bold('SARDAR RDX BOT')}`;
+  msg += `│ 👑 ${bold('RAJA G BOT')}`;
   return msg;
 }
 
@@ -257,9 +257,9 @@ module.exports = {
     }
 
     // ── .help — main menu
-    const sent = await sendMsg(api, LOAD0('SARDAR RDX BOT'), threadID, messageID);
+    const sent = await sendMsg(api, LOAD0('RAJA G BOT'), threadID, messageID);
     await sleep(600);
-    await editMsg(api, LOAD1('SARDAR RDX BOT'), sent.messageID);
+    await editMsg(api, LOAD1('RAJA G BOT'), sent.messageID);
     await sleep(700);
 
     const finalMsg = buildMainMenu(userName, config, allCmds.length, catNames, time);
