@@ -37,10 +37,10 @@ module.exports = {
 └──────────────────────┘
 
   🔗 ꜰᴀᴄᴇʙᴏᴏᴋ:
-  facebook.com/SARDAR.RDX
+  https://www.facebook.com/profile.php?id=61589639552429
 
   💬 ᴡʜᴀᴛꜱᴀᴘᴘ:
-  wa.me/923301068874
+  wa.me/923709690437
 
   📧 ᴇᴍᴀɪʟ:
   sardarrdx@gmail.com
@@ -49,7 +49,7 @@ module.exports = {
 │  🤖 ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ     │
 └──────────────────────┘
 
-  📛 ɴᴀᴍᴇ: ${config.BOTNAME || 'SARDAR RDX BOT'}
+  📛 ɴᴀᴍᴇ: ${config.BOTNAME || 'RAJA GBOT'}
   ⌨️ ᴘʀᴇꜰɪx: ${config.PREFIX || '.'}
   📦 ᴠᴇʀꜱɪᴏɴ: 2.0.0
   🛠️ ꜰʀᴀᴍᴇᴡᴏʀᴋ: RDX-FCA v2
@@ -58,7 +58,7 @@ module.exports = {
 │  🏆 ᴅᴇᴠᴇʟᴏᴘᴇʀ       │
 └──────────────────────┘
 
-  💻 ɴᴀᴍᴇ: SARDAR RDX
+  💻 ɴᴀᴍᴇ: RAJA G
   🌟 ꜱᴛᴀᴛᴜꜱ: Active
   🎯 ʀᴏʟᴇ: Bot Developer
 
