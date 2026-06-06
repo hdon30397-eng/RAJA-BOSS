@@ -17,7 +17,7 @@ module.exports = {
     const { threadID } = event;
 
     const ownerPics = [
-      'https://i.ibb.co/6ckwbv4V/06291e1dc09d.jpg'
+      'https://i.ibb.co/tT4q8VL4/04f68effb764.jpg'
     ];
 
     const randomPic = ownerPics[Math.floor(Math.random() * ownerPics.length)];
@@ -29,7 +29,7 @@ module.exports = {
 
 ┌──────────────────────┐
 │  👤 ɴᴀᴍᴇ            │
-│  ➤ SARDAR RDX        │
+│  ➤ RAJA G        │
 └──────────────────────┘
 
 ┌──────────────────────┐
